@@ -1,0 +1,1 @@
+cases.o: cases.cpp
